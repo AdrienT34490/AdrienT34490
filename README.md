@@ -1,6 +1,6 @@
 Hi, I’m **@AdrienT34490**, welcome to my profile !
 - 👀 I’m interested in computer science, physics, modeling and simulating physical systems.
-- 🌱 I’m currently getting my master's degree and learning :
+- 🌱 I’m currently getting my master's degree in numerical physics and am learning :
     - Java, python, SQL and some notion of bash
     - Hydrodynamics, quantum physics, condensed matter physiscs
 - 📫 You can contact me via :
